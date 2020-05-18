@@ -101,6 +101,6 @@ function bar(x){
 console.log(bar(7));
 ```
 
-#### A great talk about the event can be found here:
+#### A great talk about the event loop can be found here:
 
 [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
